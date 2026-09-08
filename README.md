@@ -234,3 +234,6 @@ This repository serves as the official landing page for Easy Pdf Merger. The sof
 - 💬 **[Community](https://softyne.com/about-us/)**
 ---
 **Get the most recent version of Easy Pdf Merger today!**
+
+---
+**Last updated:** 2026-09-08 00:55:42 UTC
