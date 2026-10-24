@@ -236,4 +236,4 @@ This repository serves as the official landing page for Easy Pdf Merger. The sof
 **Get the most recent version of Easy Pdf Merger today!**
 
 ---
-**Last updated:** 2026-10-24 10:22:16 UTC
+**Last updated:** 2026-10-24 14:16:11 UTC
